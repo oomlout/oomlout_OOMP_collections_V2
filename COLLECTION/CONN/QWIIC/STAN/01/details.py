@@ -17,6 +17,10 @@ def load(newPart):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
+    newPart['name'].append('QWIIC Breakouts')
+    newPart['description'].append('A collection of all OOMP projects that have a qwiic connector')
+    newPart['code'].append('qwiic')
+    newPart['collection'].append([])
 
 
     ######  Common
