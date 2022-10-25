@@ -20,7 +20,7 @@ def load(newPart):
     newPart['name'].append('QWIIC Breakouts')
     newPart['description'].append('A collection of all OOMP projects that have a qwiic connector')
     newPart['code'].append('qwiic')
-    newPart['collection'].append([])
+    newPart['collection'].append({'items': []})
 
 
     ######  Common
