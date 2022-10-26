@@ -28,5 +28,5 @@ NO IMAGES
 |name|name|QWIIC Breakouts|
 |description|description|A collection of all OOMP projects that have a qwiic connector|
 |code|code|qwiic|
-|collection|collection|[]|
+|collection|collection|<table><tr><td>'items'</td></tr><tr><td> []</td></tr></table>|
 ||||
