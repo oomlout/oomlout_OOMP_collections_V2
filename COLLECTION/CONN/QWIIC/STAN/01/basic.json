@@ -1,0 +1,53 @@
+{
+    "code": [
+        "qwiic"
+    ],
+    "collection": [
+        {
+            "items": []
+        }
+    ],
+    "description": [
+        "A collection of all OOMP projects that have a qwiic connector"
+    ],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "COLQWIIC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "QWIIC Breakouts"
+    ],
+    "oompColor": [
+        "QWIIC"
+    ],
+    "oompDesc": [
+        "STAN"
+    ],
+    "oompID": [
+        "COLLECTION-CONN-QWIIC-STAN-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "CONN"
+    ],
+    "oompType": [
+        "COLLECTION"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

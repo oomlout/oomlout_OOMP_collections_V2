@@ -1,0 +1,76 @@
+{
+    "code": [
+        "qwiic"
+    ],
+    "collection": [
+        {
+            "items": []
+        }
+    ],
+    "description": [
+        "A collection of all OOMP projects that have a qwiic connector"
+    ],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "COLQWIIC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "QWIIC Breakouts"
+    ],
+    "oompColor": [
+        "QWIIC"
+    ],
+    "oompDesc": [
+        "STAN"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_collections_V2/COLLECTION/CONN/QWIIC/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_collections_V2/COLLECTION/CONN/QWIIC/STAN/01/details.csv"
+        ],
+        "collection": [
+            "oomlout_OOMP_collections_V2/COLLECTION/CONN/QWIIC/STAN/01/COLLECTION.md"
+        ],
+        "csv": [
+            "oomlout_OOMP_collections_V2/COLLECTION/CONN/QWIIC/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_collections_V2/COLLECTION/CONN/QWIIC/STAN/01/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_collections_V2/COLLECTION/CONN/QWIIC/STAN/01/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_collections_V2/COLLECTION/CONN/QWIIC/STAN/01/README.md"
+        ]
+    },
+    "oompID": [
+        "COLLECTION-CONN-QWIIC-STAN-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "CONN"
+    ],
+    "oompType": [
+        "COLLECTION"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}
