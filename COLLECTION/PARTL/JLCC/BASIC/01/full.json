@@ -438,6 +438,9 @@
         "jsonBasic": [
             "oomlout_OOMP_collections_V2/COLLECTION/PARTL/JLCC/BASIC/01/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_collections_V2/COLLECTION/PARTL/JLCC/BASIC/01/full.json"
+        ],
         "readme": [
             "oomlout_OOMP_collections_V2/COLLECTION/PARTL/JLCC/BASIC/01/README.md"
         ]
