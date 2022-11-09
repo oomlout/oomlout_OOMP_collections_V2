@@ -1,6 +1,6 @@
 {
     "code": [
-        "qwiic"
+        "attiny84"
     ],
     "collection": [
         {
@@ -8,7 +8,7 @@
         }
     ],
     "description": [
-        "A collection of all OOMP projects that have a qwiic connector"
+        "A collection of all OOMP projects that have as ATTINY84 in them"
     ],
     "distributorPartNumber": [],
     "eagleBoard": [],
@@ -20,23 +20,23 @@
     "gitName": [],
     "gitRepo": [],
     "hexID": [
-        "COLQWIIC"
+        "COLATTINY84"
     ],
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
     "matchSpecial": [],
     "name": [
-        "QWIIC Breakouts"
+        "ATTiny84 Projects"
     ],
     "oompColor": [
-        "QWIIC"
+        "ATTINY84"
     ],
     "oompDesc": [
         "STAN"
     ],
     "oompID": [
-        "COLLECTION-CONN-QWIIC-STAN-01"
+        "COLLECTION-MCUU-ATTINY84-STAN-01"
     ],
     "oompIndex": [
         "01"
@@ -44,7 +44,7 @@
     "oompInstances": [],
     "oompParts": [],
     "oompSize": [
-        "CONN"
+        "MCUU"
     ],
     "oompType": [
         "COLLECTION"

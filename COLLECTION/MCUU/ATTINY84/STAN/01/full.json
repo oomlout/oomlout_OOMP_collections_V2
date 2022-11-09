@@ -1,0 +1,63 @@
+{
+    "code": [
+        "attiny84"
+    ],
+    "collection": [
+        {
+            "items": []
+        }
+    ],
+    "description": [
+        "A collection of all OOMP projects that have as ATTINY84 in them"
+    ],
+    "hexID": [
+        "COLATTINY84"
+    ],
+    "name": [
+        "ATTiny84 Projects"
+    ],
+    "oompColor": [
+        "ATTINY84"
+    ],
+    "oompDesc": [
+        "STAN"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_collections_V2/COLLECTION/MCUU/ATTINY84/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_collections_V2/COLLECTION/MCUU/ATTINY84/STAN/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_collections_V2/COLLECTION/MCUU/ATTINY84/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_collections_V2/COLLECTION/MCUU/ATTINY84/STAN/01/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_collections_V2/COLLECTION/MCUU/ATTINY84/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_collections_V2/COLLECTION/MCUU/ATTINY84/STAN/01/full.json"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_collections_V2/COLLECTION/MCUU/ATTINY84/STAN/01/MPNLIST.md"
+        ],
+        "readme": [
+            "oomlout_OOMP_collections_V2/COLLECTION/MCUU/ATTINY84/STAN/01/README.md"
+        ]
+    },
+    "oompID": [
+        "COLLECTION-MCUU-ATTINY84-STAN-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "MCUU"
+    ],
+    "oompType": [
+        "COLLECTION"
+    ]
+}
