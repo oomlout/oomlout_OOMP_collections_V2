@@ -20,7 +20,7 @@ def load(newPart,it):
     newPart['name'].append('ATTiny84 Projects')
     newPart['description'].append('A collection of all OOMP projects that have as ATTINY84 in them')
     newPart['code'].append('attiny84')
-    newPart['collection'].append({'items': ['PROJ-SPAR-11801-STAN-01', 'PROJ-SPAR-13118-STAN-01', 'PROJ-SPAR-15290-STAN-01', 'PROJ-SPAR-16653-STAN-01', 'PROJ-SPAR-16985-STAN-01']})
+    newPart['collection'].append({'items': ['PROJ-SPAR-11801-STAN-01', 'PROJ-SPAR-13118-STAN-01', 'PROJ-SPAR-15083-STAN-01', 'PROJ-SPAR-15165-STAN-01', 'PROJ-SPAR-15191-STAN-01', 'PROJ-SPAR-15290-STAN-01', 'PROJ-SPAR-15932-STAN-01', 'PROJ-SPAR-16328-STAN-01', 'PROJ-SPAR-16566-STAN-01', 'PROJ-SPAR-16653-STAN-01', 'PROJ-SPAR-16833-STAN-01', 'PROJ-SPAR-16985-STAN-01', 'PROJ-SPAR-17375-STAN-01']})
 
 
     ######  Common
