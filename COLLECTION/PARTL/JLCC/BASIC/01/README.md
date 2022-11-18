@@ -15,6 +15,7 @@ NO IMAGE
 - ID: COLLECTION-PARTL-JLCC-BASIC-01
 - Hex ID: COLJLCB
 - Name: JLC Parts Library
+- Path: oomlout_OOMP_collections_V2/COLLECTION/PARTL/JLCC/BASIC/01/
 - Description: JLC Parts Library
 - Long Link: [http://oom.lt/COLLECTION-PARTL-JLCC-BASIC-01](http://oom.lt/COLLECTION-PARTL-JLCC-BASIC-01)
 - Short Link: [http://oom.lt/COLJLCB](http://oom.lt/COLJLCB)
